@@ -16,11 +16,11 @@ export type Chapter = {
 };
 
 export const site = {
-  name: "teman",
-  title: "teman — artist-led creative practice",
+  name: "Irsyad",
+  title: "Irsyad — artist-led creative practice",
   description:
     "I am an artist-led creative developer. Direction, digital, and immersive work.",
-  email: "hello@teman.studio",
+  email: "hello@irsyad.studio",
   year: "Since 2022",
   regions: ["ID", "SG", "NL"],
   hero: {
@@ -222,7 +222,7 @@ export const site = {
         year: "2023",
         title: "New Practice",
         org: "South Review",
-        note: "teman",
+        note: "Irsyad",
       },
     ],
   },
@@ -253,7 +253,7 @@ export const site = {
       {
         city: "Remote",
         address: "Europe & Asia",
-        phone: "hello@teman.studio",
+        phone: "hello@irsyad.studio",
       },
     ],
     socials: [
